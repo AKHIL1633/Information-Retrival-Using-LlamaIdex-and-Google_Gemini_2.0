@@ -16,22 +16,7 @@ A cutting-edge information retrieval system that combines the power of **LlamaIn
 
 ## 📁 Project Structure
 
-Data/ # Raw and processed data files
-Experiments/ # Experiment scripts and notebooks
-QAWithPDF/ # Core QA and PDF modules
-QApplication.egg-info/
-pycache/
-build/
-dist/
-logs/ # Logs and results
-notebook/ # Jupyter notebooks
-storage/ # Persistent storage
-exception.py
-logger.py
-requirements.txt
-setup.py
-StreamlitApp.py # Main Streamlit web app
-template.py
+Data/ <pre> ```plaintext Data/ # Raw and processed data files Experiments/ # Experiment scripts and notebooks QAWithPDF/ # Core QA and PDF modules QApplication.egg-info/ __pycache__/ build/ dist/ logs/ # Logs and results notebook/ # Jupyter notebooks storage/ # Persistent storage exception.py logger.py requirements.txt setup.py StreamlitApp.py # Main Streamlit web app template.py ``` </pre>
 
 
 ---
